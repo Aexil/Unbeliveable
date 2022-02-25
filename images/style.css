@@ -82,8 +82,9 @@ form { margin: 0; }
 	color: #FFF;
 	width: 75px;
 	height: 75px;
-	margin-left: 466px;
+	margin-left: 385px;
 	padding: 0;
+	position: absolute;
 }
 
 #nav {
